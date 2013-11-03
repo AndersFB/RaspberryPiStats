@@ -1,7 +1,6 @@
 ###Contents###
 
 * config.php - Where you can configure all the settings (folder path, verbosity and future options)
-* index.php - Home page which shows the graphs and info.
 * rpiTemp.db - SQLite db file. With some test data.
 * measuretemp.php - php script for cron job.
 * cleanDB.php - script to clean the DB from sampling data and forbid future accidental deletions using a lock file.
