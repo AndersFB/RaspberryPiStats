@@ -12,7 +12,7 @@
 1. Open config.php and update `$config["root_dir"]` the with directory you put it in. For example, if you put it into /var/www/: `$config["root_dir"]="/var/www/"`
 2. install vnstat: `$ sudo apt-get install vnstat`
 3. Set up cronjob
-4. Initialize database with 'php cleanDB.php'
+4. Initialize database with `php cleanDB.php`
 
 VNSTAT is additional app which collects traffic information and give an output with the command `$ vnstat --dumpdb`.
 
@@ -27,4 +27,4 @@ file to avoid future  accidental deletions. Delete the lock file db.lck first if
 really want to clean the database.
 
 ###Authors and Contributors###
-First version by: @yuraa
+First version by: @yuraa (<a href="http://yuraa.github.io/Raspberry-Pi-Heartbeat/" target="_blank">Raspberry Pi Heartbeat</a>)
