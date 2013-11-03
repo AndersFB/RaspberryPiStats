@@ -1,0 +1,20 @@
+.sysinfo-width{
+	width:120px;
+	float:left
+}
+
+.sysinfo-bar{
+	width:70px;
+	float:left
+}
+
+.popover {
+	width: 650px;
+	max-width: 650px;
+}
+.popover-content {
+	margin-bottom: 0px;
+}
+.popover-content table {
+	margin-bottom: 0px;
+}
