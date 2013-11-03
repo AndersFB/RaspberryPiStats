@@ -8,3 +8,5 @@ This project is maked up by parts from <a href="http://yuraa.github.io/Raspberry
 The projects layout is based on the <a href="http://getbootstrap.com" target="_blank">Bootstrap</a> framework.
 
 Read charts/README.md for information about configuration of the database used by some the graph.
+
+![Raspberry Pi Stats](http://i.imgur.com/kEgOLob.png)
