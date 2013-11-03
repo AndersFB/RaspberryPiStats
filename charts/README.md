@@ -10,7 +10,7 @@
 1. Open config.php and update `$config["root_dir"]` the with directory you put it in. For example, if you put it into /var/www/: `$config["root_dir"]="/var/www/"`
 2. install vnstat: `$ sudo apt-get install vnstat`
 3. Set up cron job
-4. Initialize database with `php cleanDB.php`
+4. Initialize database with `$ php cleanDB.php`
 
 VNSTAT is additional app which collects traffic information and give an output with the command `$ vnstat --dumpdb`.
 
